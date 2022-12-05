@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace semana16_1.Data
+namespace semana16_2.Data
 {
     public class semana16_1Context : DbContext
     {
